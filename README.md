@@ -4,9 +4,9 @@ Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src
 
 ## Integrantes
 
-| Nombre | Mail | GitHub |
-| --- | --- | --- |
-|  |  |  |
+|Graciela Andriana Segura | gracielaadriana68@gmail.com | sgraciela8-design |
+|Franco Ezequiel Poblet Acosta| pobletezequiel@gmail.com |francojob2024-arch |
+| Julio Soldano | jula76@gmail.com  |  |
 |  |  |  |
 |  |  |  |
 
