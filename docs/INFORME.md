@@ -6,7 +6,7 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 
 - Tema: "Biblioteca Musical"
 - Por qué lo eligieron (5–8 líneas): 
- Se eligió por unanimidad ya que se trata de un primer repositorio en GitHub,, el primer proyecto de la materia. No presenta mayor dificultad ya que se trata de una temática conocida; el catálogo de canciones contiene pocos items, canción, artista, album, año; y se sabe cómo funciona una palylist. 
+ Se eligió por unanimidad ya que se trata de un primer repositorio en GitHub, el primer proyecto de la materia. No presenta mayor dificultad ya que se trata de una temática conocida; el catálogo de canciones contiene pocos items, canción, artista, album, año; y se sabe cómo funciona una palylist. 
  Esto nos permite concentrarnos más en el código.
 
 ## 2. Modelo
