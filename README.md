@@ -4,13 +4,12 @@ Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src
 
 ## Integrantes
 
-|Graciela Andriana Segura | gracielaadriana68@gmail.com | sgraciela8-design |
-|Franco Ezequiel Poblet Acosta| pobletezequiel@gmail.com |francojob2024-arch |
-| Julio Soldano | jula76@gmail.com  |  |
-|  |  |  |
-|  |  |  |
+| Segura, Graciela Adriana | gracielaadriana68@gmail.com | sgraciela8-design |
+| Poblet Acosta, Franco Ezequiel | pobletezequiel@gmail.com | francojob2024-arch |
+| Soldano, Julio | jula76@gmail.com |
 
-**Tema elegido:** Pokédex / Recetario / Biblioteca musical (dejar uno)
+
+**Tema elegido:**  Biblioteca musical
 
 ## Cómo ejecutar
 
