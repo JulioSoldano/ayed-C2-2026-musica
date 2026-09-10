@@ -5,11 +5,22 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 ## 1. Grupo y tema
 
 - Tema: "Biblioteca Musical"
-- Por qué lo eligieron (5–8 líneas): Se eligió por unanimidad porque nos gusta la música, 
+- Por qué lo eligieron (5–8 líneas): 
+ Se eligió por unanimidad ya que se trata de un primer repositorio en GitHub,, el primer proyecto de la materia. No presenta mayor dificultad ya que se trata de una temática conocida; el catálogo de canciones contiene pocos items, canción, artista, album, año; y se sabe cómo funciona una palylist. 
+ Esto nos permite concentrarnos más en el código.
 
 ## 2. Modelo
 
-Qué es un ítem del catálogo. Qué es mutable y qué no (E1). Cómo se relacionan catálogo, colección principal, pila y cola.
+Qué es un ítem del catálogo. Qué es mutable y qué no (E1).
+El ítem es un producto que forma parte del catálogo o sea una lista organizada, de ésto se trata el proyecto. El ítem en nuestro catálogo sería la canción.
+La lista y el diccionario en Python son mutables significa que sus componentes se pueden modificar, cambiar , agregar o borrar elementos sin necesidad de generar un objeto nuevo.
+Inmutable es todo lo contrario, no se pueden modificar sus datos una vez creado, por ejemplo las tuplas. Si se necesita modificar hay que crear un objeto nuevo.
+
+ Cómo se relacionan catálogo, colección principal, pila y cola.
+ En programación el catálogo es el registro maestro, contiene datos inmutables y fijos de cada elemento.
+ La colección principal es el sub-conjunto de elementos que que elegimos para formar nuestra lista de canciones.
+ La pila es una estructura de datos donde los elementos se apilan uno arriba de otro; el último elemento que se agrega es el primero que se tiene que sacar. Sería el historial de canciones escuchadas.
+ Cola es una estructura de datos ordenada donde el primer elemento que se coloca es el primero que debe salir, seria la fila de reproducción cuando se pone por ejemplo reproducir a continuación.
 
 ```text
 (pueden pegar un diagrama ASCII o una lista de clases)
